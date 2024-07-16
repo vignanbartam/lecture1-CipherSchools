@@ -1,0 +1,15 @@
+* Importance and the need of bugs/errors in developing and understanding of a program or code.
+* Differences between procedural and object oriented programming
+* OBJECT :- anything that has a state and behaviour is known as an object.
+* CLASS  :- a class is a group of objects having common properties.
+        -->Classes can contain:
+           * fields
+           * methids
+           * constructors
+           * nested class and interface
+
+        -->creatioin of objects of a class .
+           * known as instatioation of a class.
+           * objects share attributes and the behaviour of class.
+           * values of those attributes may be unique for each object.
+           * a class can have no.of instances.
